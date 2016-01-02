@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2319149
 color:
-  saturation: 0.1021277
+  saturation: 0.1574468
   brandStrength: 0.07129706
-  lightness: 0.04680851
-  rhythmicContrast: 0.5276596
+  lightness: 0
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-typography_spectrum: 0.2319149
+  rhythmicContrast: 0.5042553
+layout_spectrum: 1
 name: 'Pintsizedrobotninja '
