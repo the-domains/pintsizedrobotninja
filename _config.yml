@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1021277
+  brandStrength: 0.07129706
+  lightness: 0.04680851
+  rhythmicContrast: 0.5276596
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.2319149
+name: 'Pintsizedrobotninja '
