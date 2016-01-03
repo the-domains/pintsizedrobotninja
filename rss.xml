@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pintsizedrobotninja ]]></title>
+        <description><![CDATA[Pintsizedrobotninja ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 23:43:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Landwalker Mech Warrior]]></title>
+            <description><![CDATA[<article><h1>Landwalker Mech Warrior</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd75dbb35eb1fd7c1135a3b8f03932f4d9439bc2.jpg"></article>]]></description>
+            <link>undefinedlandwalker-mech-warrior/index.html</link>
+            <guid isPermaLink="false">5f35e412-42ab-4558-9747-193ee3aaa8d3</guid>
+            <pubDate>Sun, 03 Jan 2016 23:43:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
