@@ -1,3 +1,7 @@
+name: 'Pintsizedrobotninja '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2319149
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2319149
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1574468
-  brandStrength: 0.07129706
-  lightness: 0
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#fcfcfc'
+    - '#1d1b25'
+    - '#7e767c'
+    - '#57384c'
+    - '#b1b08c'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.1574468
   rhythmicContrast: 0.5042553
-layout_spectrum: 1
-name: 'Pintsizedrobotninja '
+purpose: []
