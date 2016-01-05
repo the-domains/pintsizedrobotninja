@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Watch this real-life mech warrior demonstration
-datePublished: '2016-01-03T23:43:20.032Z'
-dateModified: '2016-01-03T23:42:48.491Z'
+datePublished: '2016-01-05T12:36:41.108Z'
+dateModified: '2016-01-03T23:43:20.032Z'
 title: Landwalker Mech Warrior
 author: []
 authors: []
