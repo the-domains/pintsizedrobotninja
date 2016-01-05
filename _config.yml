@@ -1,5 +1,4 @@
-favicon: null
-name: 'Pintsizedrobotninja '
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -19,22 +18,23 @@ collections:
 purpose: []
 color:
   saturation: 1
+  lightness: 0.3723404
   brandStrength: 0.3125
-  lightness: 0
   brandColors:
     - '#fcfcfc'
     - '#1d1b25'
     - '#7e767c'
     - '#57384c'
     - '#b1b08c'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 typography_spectrum: 0.2319149
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: 'Pintsizedrobotninja '
