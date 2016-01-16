@@ -1,9 +1,7 @@
-favicon: null
 name: 'Pintsizedrobotninja '
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2319149
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.3125
-  lightness: 0.6914893
   brandColors:
     - '#fcfcfc'
     - '#1d1b25'
     - '#7e767c'
     - '#57384c'
     - '#b1b08c'
-  rhythmicContrast: 0.5340425
-typography_spectrum: 0.2319149
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
+purpose: []
