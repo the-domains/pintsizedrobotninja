@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - views
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=29MD29ekoKI'
 title: KURATAS - Suidobashi heavy industry
-datePublished: '2016-02-11T23:57:50.497Z'
-dateModified: '2016-02-11T23:57:20.534Z'
+datePublished: '2016-02-13T15:05:39.808Z'
+dateModified: '2016-02-12T00:00:48.968Z'
 sourcePath: _posts/2016-02-11-kuratas-suidobashi-heavy-industry.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
