@@ -17,8 +17,8 @@ keywords:
   - wageningen
   - knowledge
 description: Six passengers took an unusual ride last week. The shuttle bus they were on had no one behind the wheel. That short trial run along a lake in the Dutch town of Wageningen marked the first time such a self-driving vehicle had appeared on public roads in the Netherlands.
-datePublished: '2016-02-10T22:57:32.398Z'
-dateModified: '2016-02-10T22:57:27.827Z'
+datePublished: '2016-02-13T21:21:14.790Z'
+dateModified: '2016-02-13T21:20:57.015Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Driverless Dutch Bus Takes Passengers on Public Test</h1><p>Six passengers took an unusual ride last week&amp;period; The shuttle bus they were on had no one behind the wheel&amp;period; That short trial run along a lake in the Dutch town of Wageningen marked the first time such a self-driving vehicle had appeared on public roads in the Netherlands&amp;period;</p><img src="http://spectrum.ieee.org/img/WEpods1-1454353658108.jpg" /></article>
+<article style=""><h1>Driverless Dutch Bus Takes Passengers on Public Test</h1><p>Six passengers took an unusual ride last week. The shuttle bus they were on had no one behind the wheel. That short trial run along a lake in the Dutch town of Wageningen marked the first time such a self-driving vehicle had appeared on public roads in the Netherlands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3faea7d292ea00d73b288931c5aa855d2310ca50.jpg" /></article>
