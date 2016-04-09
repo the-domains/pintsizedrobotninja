@@ -17,8 +17,8 @@ keywords:
   - awesome
   - '2015'
 description: '水道橋重工： http://suidobashijuko.jp/'
-datePublished: '2016-04-09T21:35:10.700Z'
-dateModified: '2016-04-09T21:35:08.559Z'
+datePublished: '2016-04-09T21:37:43.171Z'
+dateModified: '2016-04-09T21:36:45.975Z'
 author:
   - name: 水道橋重工
     url: 'https://www.youtube.com/channel/UCa_Y3uoHJhRnQ3qNxEcQdaQ'
