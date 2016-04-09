@@ -1,14 +1,10 @@
 ---
-author:
-  - name: MegaBots Inc
-    url: 'https://www.youtube.com/user/megabotsinc'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=XVJTGLL2SnI'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - robots
@@ -21,7 +17,13 @@ keywords:
   - https
   - fight
 description: 'SUIDOBASHI HEAVY INDUSTRIES! MegaBots, Inc. challenges you to a duel! You have a giant robot, we have a giant robot - we have a duty to the science fiction lovers of this world to fight them to the death. Prepare yourselves, and name the battlefield. In one year, we fight.'
-inLanguage: en
+datePublished: '2016-04-09T21:39:33.445Z'
+dateModified: '2016-04-09T21:27:56.541Z'
+author:
+  - name: MegaBots Inc
+    url: 'https://www.youtube.com/user/megabotsinc'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=XVJTGLL2SnI&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=XVJTGLL2SnI&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=XVJTGLL2SnI'
 title: 'USA CHALLENGES JAPAN TO GIANT ROBOT DUEL!'
-datePublished: '2016-02-10T22:54:12.149Z'
-dateModified: '2016-02-10T22:53:10.502Z'
 sourcePath: _posts/2016-02-10-usa-challenges-japan-to-giant-robot-duel.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
