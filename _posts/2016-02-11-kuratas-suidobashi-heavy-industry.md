@@ -1,14 +1,10 @@
 ---
-author:
-  - name: 水道橋重工
-    url: 'https://www.youtube.com/channel/UCa_Y3uoHJhRnQ3qNxEcQdaQ'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=29MD29ekoKI'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - awesome
   - '2015'
 description: '水道橋重工： http://suidobashijuko.jp/'
-inLanguage: en
+datePublished: '2016-04-09T21:22:50.281Z'
+dateModified: '2016-04-09T21:19:36.003Z'
+author:
+  - name: 水道橋重工
+    url: 'https://www.youtube.com/channel/UCa_Y3uoHJhRnQ3qNxEcQdaQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=29MD29ekoKI&feature=applinks'
     type: ios
@@ -33,17 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=29MD29ekoKI&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=29MD29ekoKI'
 title: KURATAS - Suidobashi heavy industry
-datePublished: '2016-02-13T15:05:39.808Z'
-dateModified: '2016-02-12T00:00:48.968Z'
 sourcePath: _posts/2016-02-11-kuratas-suidobashi-heavy-industry.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
