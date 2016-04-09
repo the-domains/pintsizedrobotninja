@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=1h9Mw-s9mzI'
+inLanguage: null
+starred: false
+keywords: []
+description: 'After four years intensive R&D, inspiration, design and build, Micromagic Systems is proud to unveil Mantis -- the biggest, all-terrain operational hexapod robot in the world. This 2.2-litre Turbo Diesel-powered, British-designed and -built walking machine can be piloted or remote WiFi-controlled, stands 2.8 metres high with a five meter working envelope and weighing in at just under two tonnes.'
+datePublished: '2016-04-09T21:18:54.322Z'
+dateModified: '2016-04-09T21:18:45.479Z'
 author:
   - name: Matt Denton
     url: 'https://www.youtube.com/user/winchymatt'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'After four years intensive R&D, inspiration, design and build, Micromagic Systems is proud to unveil Mantis -- the biggest, all-terrain operational hexapod robot in the world. This 2.2-litre Turbo Diesel-powered, British-designed and -built walking machine can be piloted or remote WiFi-controlled, stands 2.8 metres high with a five meter working envelope and weighing in at just under two tonnes.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1h9Mw-s9mzI'
 title: Mantis - Two Tonne Turbo Diesel Hexapod Walking Machine
-datePublished: '2016-02-13T21:23:01.225Z'
-dateModified: '2016-02-12T00:11:54.058Z'
 sourcePath: _posts/2016-02-13-mantis-two-tonne-turbo-diesel-hexapod-walking-machine.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
